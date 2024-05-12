@@ -10,7 +10,7 @@
 使用言語: C#</br>
 使用ライブラリ: UniRx, UniTask, etc...</br>
 制作人数: プログラマ4名</br>
-製作期間: 約3カ月年</br>
+製作期間: 約3カ月</br>
 
 ## ライブラリ概要
 [UniRx](https://assetstore.unity.com/packages/tools/integration/unirx-reactive-extensions-for-unity-17276?locale=ja-JP)はUnityのためのReactictive Extensionです。</br>
