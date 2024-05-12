@@ -2,7 +2,7 @@
 ## ゲーム概要
 ジャンルは3DのローグライクRPGです。プレイヤーは敵を倒した時に手に入る魔法や、そのカスタマイズアイテムを使って独自の魔法を構築しながら戦います。
 ゲームクリエイターズ甲子園様提出作品なため、詳細は以下リンクよりお確かめください。
-> https://gameparade.creators-guild.com/works/1139</br>](https://gameparade.creators-guild.com/works/406
+> https://gameparade.creators-guild.com/works/406
 > 
 
 ## 制作概要
